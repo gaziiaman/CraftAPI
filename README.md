@@ -39,7 +39,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 
 This project is open for suggestions (including breaking changes between major version) and contributions. If you have 
 an idea to make this library, you are welcome to create an issue ticker or pull request. Please provide units for pull 
-requests if possible GZEE.
+requests if possible GZEE THE GREAT.
 
 ## Maven repository
 
@@ -76,3 +76,5 @@ Inspired by
 * [Mojang Authlib](https://github.com/Techcable/Authlib)
 * [Mojang AccountsClient](https://github.com/JonMcPherson/AccountsClient/)
 * [API proxy Interceptor](https://github.com/Shevchik/MojangAPIProxy)
+
+something new
