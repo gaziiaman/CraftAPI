@@ -27,7 +27,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * HTTP request interceptor to redirect to this library
 * Wait a customizable interval for sending bulk requests (although this increases latency)
 * Add multiple remote APIs besides Mojang:
-    * [MineTools](https://api.minetools.eu/)
+    * [MineTools](https://api.minetools.eu/) hello
 
 ## Requirements
 
@@ -41,10 +41,10 @@ This project is open for suggestions (including breaking changes between major v
 an idea to make this library, you are welcome to create an issue ticker or pull request. Please provide units for pull 
 requests if possible.
 
-## Maven repository
+## Maven repositoryf
 
 ```xml
-	<repositories>
+	<repositories>g
         <!-- CodeMc -->
         <repository>
             <id>codemc-repo</id>
