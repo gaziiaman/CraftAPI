@@ -10,6 +10,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Minimal requirements to integrate it into Sponge, BungeeCord and Spigot
 * Compatibility with Minecraft 1.7.10+
 * Thread-Safe
+* Thread safe
 * Usage of modern Java 8 features
 * UUID and skin querying
 * Skin changing
